@@ -10,5 +10,5 @@ public class Timer {
 
     public Long getTime() {
         return creationTime;
-    } //Время будет одно и тоже
+    }
 }
