@@ -12,7 +12,7 @@ public class AnimalsCage {
     private Animal animal;
 
     @Autowired // создал бин для Timera связал с классом
-    Timer timer;
+    private Timer timer;
 
     public Timer getTimer() {
         return timer;
